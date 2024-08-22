@@ -1,3 +1,2 @@
-# Hands_On_Simulation_Modeling_With_Python
+# My Python coding Practise code
 
-This is the practise code from book Hands-On Simulation Modeling with Python, Second Edition, published by Packt
